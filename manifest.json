@@ -1,0 +1,7 @@
+{
+    "name": "SpritesReborn",
+    "version_number": "2.0.1",
+    "website_url": "",
+    "description": "Re-colors every sprite to make the game more vibrant and have more personality",
+    "dependencies": ["20MTDAssetReplacer-AssetReplacer-20.2.0"]
+}
